@@ -1,0 +1,27 @@
+body
+{
+    text-align: center;
+    background: url("background.png");
+}
+
+#app,#web {
+    background-color: #d4bff7;
+}
+
+#myCarrossel
+{
+    background-color: #d4bff7;
+}
+
+#myCarousel img
+{
+    height: 200px;
+    margin-top: 35px;
+}
+
+.carousel-inner p
+{
+    margin-top: 15px;
+    color : white;
+    font-size: 20px;
+}
